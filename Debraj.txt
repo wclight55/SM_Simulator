@@ -1,0 +1,26 @@
+Prof. Chengliang,
+
+    I need a  bit urgent help. I am not sure how to compile the simulator code. Therefore could you please add the following functionalities where the node trigger happens in real-time (most probably in MainFrame.cpp:  str="Triggered Sensor:" + String(pListBox->Count+1)+":   "+str;). Whenever a node (say 99) is triggered we just need it to send a string "99:2012:02:24:14:05:50:854" (means <node id>: <year> :<month>:<date>:<hour>:<minute>:<second>:<millisecond>).  This needs to be sent at port 2004 and IP http://131.96.49.147. Is it please possible to have it today? Thanks. I really appreciate that.
+
+The code for getting system time in C++ is here:
+-------------------------------------------------------------------------------------
+#include <stdio.h>
+#include <sys/timeb.h>
+#include <time.h>
+ 
+int main()
+{
+  struct timeb tmb;
+  time_t rawtime;
+  struct tm * timeinfo;
+ 
+  ftime(&tmb);
+  //printf("tmb.time     = %ld (seconds) %ld (minutes) %ld (hour)\n", (tmb.time%60), ((tmb.time/60)%60), (((tmb.time/3600)-5)%24) );
+  //printf("tmb.millitm  = %d (mlliseconds)\n", tmb.millitm);
+  
+  time ( &rawtime );
+  timeinfo = localtime ( &rawtime );
+  printf ( "The current date/time is: %ld %ld %ld %ld %ld %ld", (timeinfo->tm_year+1900), (timeinfo->tm_mon+1), timeinfo->tm_hour, timeinfo->tm_min, timeinfo->tm_sec, tmb.millitm);
+ 
+  return 0;
+}

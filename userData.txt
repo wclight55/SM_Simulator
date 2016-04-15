@@ -1,0 +1,515 @@
+Speed:0.919989  begin:12  end:728  m7  m2  m1  m9  m10  m12  m13  m14  m21  length:67.253616  average speed:0.939296  
+Speed:1.168949  begin:29  end:185  m21  m14  m15  m19  m17  length:21.430609  average speed:1.373757  
+Speed:1.092145  begin:77  end:303  m8  m4  m5  m6  m21  length:29.351419  average speed:1.298735  
+Speed:1.104090  begin:79  end:522  m11  m10  m9  m1  m2  m3  m8  length:44.843716  average speed:1.012273  
+Speed:1.179556  begin:84  end:308  m11  m20  m16  m15  m19  m8  length:30.621992  average speed:1.367053  
+Speed:1.026709  begin:111  end:306  m8  m4  m3  m7  length:24.781227  average speed:1.270832  
+Speed:1.025752  begin:128  end:323  m8  m4  m3  m7  length:24.781227  average speed:1.270832  
+Speed:0.987102  begin:129  end:526  m7  m2  m1  m9  m10  m20  m11  length:40.847904  average speed:1.028914  
+Speed:1.044044  begin:133  end:514  m11  m10  m9  m1  m2  m3  m7  length:39.390717  average speed:1.033877  
+Speed:0.875755  begin:175  end:203  m17  m18  length:2.350532  average speed:0.839476  
+Speed:1.032285  begin:184  end:396  m21  m15  m16  m20  m11  length:21.537075  average speed:1.015900  
+Speed:0.863419  begin:265  end:726  m11  m10  m9  m1  m2  m3  m7  length:39.390717  average speed:0.854462  
+Speed:1.046382  begin:267  end:542  m7  m2  m3  m8  length:27.758358  average speed:1.009395  
+Speed:0.969159  begin:287  end:427  m17  m19  m15  m21  length:13.361723  average speed:0.954409  
+Speed:0.847126  begin:288  end:821  m11  m10  m12  m13  m14  m21  length:44.737408  average speed:0.839351  
+Speed:1.000132  begin:332  end:533  m8  m4  m3  m7  length:24.781227  average speed:1.232897  
+Speed:1.104003  begin:354  end:988  m21  m14  m13  m12  m10  m20  m16  m15  m19  m8  length:72.528999  average speed:1.143991  
+Speed:0.987665  begin:370  end:619  m21  m6  m5  m4  m8  length:29.351418  average speed:1.178772  
+Speed:0.815904  begin:373  end:748  m11  m10  m20  m16  m15  m19  m17  length:32.227402  average speed:0.859397  
+Speed:0.915487  begin:424  end:451  m17  m18  length:2.350532  average speed:0.870567  
+Speed:1.046618  begin:439  end:1067  m7  m2  m1  m9  m10  m12  m13  m14  m21  length:67.253616  average speed:1.070917  
+Speed:1.160314  begin:458  end:699  m7  m2  m3  m4  m8  length:34.677929  average speed:1.438918  
+Speed:1.171457  begin:483  end:1044  m7  m2  m1  m9  m10  m12  m13  m14  m21  length:67.253616  average speed:1.198817  
+Speed:0.964827  begin:501  end:790  m7  m2  m3  m4  m8  length:34.677929  average speed:1.199928  
+Speed:0.896487  begin:502  end:709  m8  m19  m15  m21  length:20.896774  average speed:1.009506  
+Speed:0.954002  begin:540  end:866  m11  m10  m20  m16  m15  m21  length:30.677540  average speed:0.941029  
+Speed:1.103485  begin:556  end:1024  m11  m20  m10  m12  m13  m14  m21  length:51.098232  average speed:1.091843  
+Speed:0.876999  begin:573  end:905  m7  m2  m3  m8  length:27.758358  average speed:0.836095  
+Speed:0.999530  begin:574  end:888  m7  m2  m1  m9  m10  m11  length:34.487076  average speed:1.098315  
+Speed:1.111149  begin:576  end:1259  m21  m15  m14  m13  m12  m10  m9  m1  m2  m3  m7  length:76.736702  average speed:1.123524  
+Speed:0.985865  begin:606  end:708  m17  m19  m8  length:12.723501  average speed:1.247402  
+Speed:0.826869  begin:631  end:1028  m7  m2  m1  m9  m10  m11  length:34.487076  average speed:0.868692  
+Speed:1.055939  begin:640  end:807  m21  m6  m4  m8  length:22.462656  average speed:1.345069  
+Speed:1.030848  begin:642  end:909  m7  m2  m3  m4  m6  m5  length:29.312328  average speed:1.097840  
+Speed:1.110558  begin:660  end:1366  m11  m20  m16  m15  m14  m13  m12  m10  m9  m1  m2  m7  length:81.558273  average speed:1.155216  
+Speed:1.074490  begin:703  end:1236  m21  m15  m14  m13  m12  m10  m20  m16  length:58.582058  average speed:1.099101  
+Speed:1.049139  begin:714  end:1173  m11  m10  m12  m13  m14  m15  m21  length:49.316845  average speed:1.074441  
+Speed:1.137326  begin:746  end:768  m17  m18  length:2.350532  average speed:1.068424  
+Speed:0.926086  begin:764  end:1252  m11  m10  m12  m13  m14  m21  length:44.737408  average speed:0.916750  
+Speed:0.989515  begin:789  end:814  m17  m18  length:2.350532  average speed:0.940213  
+Speed:1.024056  begin:805  end:1111  m7  m2  m1  m9  m10  m11  length:34.487076  average speed:1.127029  
+Speed:0.916381  begin:831  end:1188  m11  m10  m9  m1  m2  m7  length:34.487076  average speed:0.966025  
+Speed:0.895324  begin:881  end:1105  m8  m4  m3  m7  length:24.781227  average speed:1.106305  
+Speed:1.132688  begin:942  end:1431  m11  m10  m20  m16  m15  m14  m13  m12  length:56.446224  average speed:1.154320  
+Speed:0.926160  begin:953  end:1218  m8  m4  m5  m6  m21  length:29.351419  average speed:1.107601  
+Speed:0.984558  begin:954  end:1412  m21  m14  m13  m12  m10  m11  length:44.737408  average speed:0.976799  
+Speed:1.009543  begin:958  end:1284  m11  m10  m9  m1  m2  m7  length:34.487076  average speed:1.057886  
+Speed:1.020761  begin:997  end:1273  m11  m20  m16  m15  m14  m21  length:29.605961  average speed:1.072680  
+Speed:1.032954  begin:1005  end:1177  m8  m4  m6  m21  length:22.462656  average speed:1.305968  
+Speed:0.920774  begin:1029  end:1359  m7  m2  m3  m4  m6  m21  length:32.088440  average speed:0.972377  
+Speed:1.123959  begin:1041  end:1219  m17  m19  m15  m14  m21  length:21.430609  average speed:1.203967  
+Speed:0.821860  begin:1051  end:1506  m11  m10  m20  m16  m15  m14  m21  length:38.746426  average speed:0.851570  
+Speed:1.017351  begin:1075  end:1626  m17  m19  m15  m14  m13  m12  m10  m20  m11  length:57.227531  average speed:1.038612  
+Speed:0.815657  begin:1075  end:1415  m7  m2  m3  m4  m8  length:34.677929  average speed:1.019939  
+Speed:0.875831  begin:1095  end:1324  m7  m3  m4  m8  length:24.781227  average speed:1.082150  
+Speed:1.063593  begin:1115  end:1335  m17  m19  m15  m16  m20  m11  length:23.086939  average speed:1.049406  
+Speed:1.072722  begin:1155  end:1636  m11  m20  m10  m12  m13  m14  m21  length:51.098232  average speed:1.062333  
+Speed:1.046728  begin:1170  end:1194  m17  m18  length:2.350532  average speed:0.979388  
+Speed:1.080790  begin:1178  end:1201  m17  m18  length:2.350532  average speed:1.021970  
+Speed:0.881292  begin:1231  end:1471  m7  m3  m8  length:17.861658  average speed:0.744236  
+Speed:0.952297  begin:1241  end:1586  m7  m2  m1  m9  m10  m11  length:34.487076  average speed:0.999625  
+Speed:1.092527  begin:1283  end:1474  m7  m3  m8  length:17.861658  average speed:0.935165  
+Speed:1.061525  begin:1297  end:1526  m21  m14  m15  m19  m8  length:28.965660  average speed:1.264876  
+Speed:1.164380  begin:1369  end:1571  m17  m19  m15  m16  m20  m11  length:23.086939  average speed:1.142918  
+Speed:1.089302  begin:1369  end:1561  m7  m3  m8  length:17.861658  average speed:0.930295  
+Speed:0.929893  begin:1411  end:2003  m11  m20  m10  m12  m13  m14  m15  m19  m17  length:57.227531  average speed:0.966681  
+Speed:0.949142  begin:1429  end:1455  m17  m18  length:2.350532  average speed:0.904051  
+Speed:0.784282  begin:1477  end:1852  m7  m3  m4  m5  m6  m21  length:29.080503  average speed:0.775480  
+Speed:0.841225  begin:1525  end:1687  m17  m19  m15  m21  length:13.361723  average speed:0.824798  
+Speed:1.023215  begin:1554  end:1700  m8  m4  m6  m5  length:19.686543  average speed:1.348393  
+Speed:0.903964  begin:1576  end:1887  m8  m4  m3  m7  length:24.781227  average speed:0.796824  
+Speed:1.008109  begin:1669  end:2352  m7  m2  m1  m9  m10  m12  m13  m14  m15  m21  length:71.833054  average speed:1.051728  
+Speed:1.012629  begin:1686  end:2073  m7  m2  m1  m9  m10  m20  m11  length:40.847904  average speed:1.055501  
+Speed:0.981442  begin:1708  end:1992  m7  m2  m3  m4  m8  length:34.677929  average speed:1.221054  
+Speed:0.992683  begin:1715  end:2096  m21  m6  m5  m4  m3  m8  length:34.533501  average speed:0.906391  
+Speed:1.039878  begin:1741  end:1958  m21  m6  m4  m3  m7  length:22.191738  average speed:1.022661  
+Speed:0.950446  begin:1807  end:2117  m7  m3  m4  m5  m6  m21  length:29.080503  average speed:0.938081  
+Speed:1.075052  begin:1822  end:1845  m17  m18  length:2.350532  average speed:1.021970  
+Speed:1.084510  begin:1827  end:2023  m7  m3  m8  length:17.861658  average speed:0.911309  
+Speed:1.083095  begin:1842  end:1929  m17  m19  m8  length:12.723501  average speed:1.462471  
+Speed:0.932481  begin:1856  end:1989  m21  m15  m19  m17  length:13.361722  average speed:1.004641  
+Speed:1.042781  begin:1871  end:2421  m21  m15  m14  m13  m12  m10  m20  m16  length:58.582058  average speed:1.065128  
+Speed:0.903164  begin:1874  end:2131  m21  m14  m15  m19  m8  length:28.965660  average speed:1.127068  
+Speed:0.901062  begin:1917  end:2265  m7  m2  m1  m9  m10  m11  length:34.487076  average speed:0.991008  
+Speed:1.149903  begin:1917  end:1939  m17  m18  length:2.350532  average speed:1.068424  
+Speed:0.936412  begin:1920  end:2221  m11  m20  m16  m15  m14  m21  length:29.605961  average speed:0.983587  
+Speed:0.960191  begin:1940  end:2249  m21  m15  m16  m20  m10  m11  length:30.677538  average speed:0.992801  
+Speed:1.134756  begin:1964  end:2056  m8  m19  m17  length:12.723501  average speed:1.382989  
+Speed:1.020905  begin:1971  end:2494  m11  m10  m12  m13  m14  m15  m16  m20  length:54.446449  average speed:1.041041  
+Speed:0.908645  begin:1974  end:2285  m21  m14  m15  m16  m20  m11  length:29.605961  average speed:0.951960  
+Speed:1.068800  begin:1976  end:2161  m7  m3  m4  m6  m5  length:19.415627  average speed:1.049493  
+Speed:1.074069  begin:1999  end:2138  m8  m4  m6  m5  length:19.686543  average speed:1.416298  
+Speed:1.004997  begin:2002  end:2386  m7  m3  m2  m1  m9  m10  m11  length:39.390713  average speed:1.025800  
+Speed:1.114063  begin:2063  end:2360  m11  m10  m9  m1  m2  m7  length:34.487076  average speed:1.161181  
+Speed:0.954353  begin:2064  end:2652  m11  m20  m10  m9  m1  m2  m3  m4  m6  m21  length:55.534626  average speed:0.944466  
+Speed:1.123694  begin:2070  end:2092  m17  m18  length:2.350532  average speed:1.068424  
+Speed:0.969692  begin:2078  end:2261  m8  m4  m6  m21  length:22.462656  average speed:1.227468  
+Speed:1.146314  begin:2080  end:2163  m17  m19  m8  length:12.723501  average speed:1.532952  
+Speed:1.035402  begin:2144  end:2168  m17  m18  length:2.350532  average speed:0.979388  
+Speed:1.070155  begin:2184  end:2734  m7  m3  m2  m1  m9  m10  m20  m16  m15  m21  length:58.097389  average speed:1.056316  
+Speed:1.046433  begin:2188  end:2816  m7  m2  m1  m9  m10  m12  m13  m14  m21  length:67.253616  average speed:1.070917  
+Speed:1.061312  begin:2233  end:2421  m17  m19  m15  m14  m21  length:21.430609  average speed:1.139926  
+Speed:1.077833  begin:2237  end:2525  m11  m10  m20  m16  m15  m21  length:30.677540  average speed:1.065192  
+Speed:1.094674  begin:2245  end:2436  m7  m3  m8  length:17.861658  average speed:0.935165  
+Speed:1.178488  begin:2246  end:2267  m17  m18  length:2.350532  average speed:1.119301  
+Speed:1.022755  begin:2254  end:2448  m17  m19  m15  m14  m21  length:21.430609  average speed:1.104671  
+Speed:0.882539  begin:2302  end:2456  m17  m19  m15  m21  length:13.361723  average speed:0.867644  
+Speed:1.027496  begin:2304  end:3042  m7  m3  m2  m1  m9  m10  m12  m13  m14  m15  m21  length:76.736694  average speed:1.039793  
+Speed:1.124967  begin:2328  end:2416  m17  m19  m8  length:12.723501  average speed:1.445852  
+Speed:1.009014  begin:2328  end:2526  m7  m3  m4  m8  length:24.781227  average speed:1.251577  
+Speed:0.973388  begin:2356  end:2461  m17  m19  m8  length:12.723501  average speed:1.211762  
+Speed:0.922251  begin:2394  end:2542  m17  m19  m15  m21  length:13.361723  average speed:0.902819  
+Speed:1.093340  begin:2454  end:2549  m8  m19  m17  length:12.723501  average speed:1.339316  
+Speed:1.094868  begin:2592  end:3372  m11  m20  m16  m15  m14  m13  m12  m10  m9  m1  m2  m3  m7  length:86.461914  average speed:1.108486  
+Speed:0.769177  begin:2604  end:2924  m8  m4  m5  m6  m21  length:29.351419  average speed:0.917232  
+Speed:1.157679  begin:2611  end:2935  m11  m10  m20  m16  m15  m14  m21  length:38.746426  average speed:1.195877  
+Speed:1.050961  begin:2685  end:2779  m17  m19  m8  length:12.723501  average speed:1.353564  
+Speed:0.912956  begin:2700  end:3138  m7  m3  m2  m1  m9  m10  m11  length:39.390713  average speed:0.899331  
+Speed:0.988640  begin:2734  end:3026  m8  m3  m4  m6  m5  length:24.868629  average speed:0.851665  
+Speed:1.118395  begin:2741  end:3034  m11  m10  m9  m1  m2  m7  length:34.487076  average speed:1.177033  
+Speed:1.140815  begin:2745  end:2999  m7  m2  m3  m8  length:27.758358  average speed:1.092849  
+Speed:0.931587  begin:2759  end:3243  m11  m10  m12  m13  m14  m21  length:44.737408  average speed:0.924327  
+Speed:0.976106  begin:2772  end:3547  m7  m3  m2  m1  m9  m10  m12  m13  m14  m15  m21  length:76.736694  average speed:0.990151  
+Speed:0.967716  begin:2774  end:2929  m8  m4  m6  m5  length:19.686543  average speed:1.270100  
+Speed:0.883290  begin:2780  end:3123  m7  m2  m3  m4  m6  m21  length:32.088440  average speed:0.935523  
+Speed:1.209679  begin:2794  end:2975  m11  m20  m16  m15  m19  m17  length:23.086941  average speed:1.275522  
+Speed:1.026460  begin:2794  end:3080  m21  m6  m5  m4  m3  m7  length:29.080502  average speed:1.016801  
+Speed:1.101134  begin:2806  end:3156  m7  m3  m2  m1  m9  m10  m11  length:39.390713  average speed:1.125449  
+Speed:1.046468  begin:2821  end:3266  m21  m15  m14  m13  m12  m10  m11  length:49.316845  average speed:1.108244  
+Speed:0.774165  begin:2827  end:3019  m8  m4  m6  m5  length:19.686543  average speed:1.025341  
+Speed:0.923831  begin:2882  end:2909  m17  m18  length:2.350532  average speed:0.870567  
+Speed:1.008147  begin:2894  end:3569  m21  m14  m13  m12  m10  m20  m16  m15  m19  m8  length:72.528999  average speed:1.074504  
+Speed:0.844107  begin:2899  end:3059  m17  m19  m15  m21  length:13.361723  average speed:0.835108  
+Speed:1.020202  begin:2902  end:3345  m11  m10  m12  m13  m14  m21  length:44.737408  average speed:1.009874  
+Speed:0.989012  begin:2912  end:2937  m17  m18  length:2.350532  average speed:0.940213  
+Speed:1.137501  begin:2928  end:3406  m21  m15  m14  m13  m12  m10  m20  m11  length:55.677670  average speed:1.164805  
+Speed:1.055373  begin:2951  end:3407  m21  m15  m14  m13  m12  m10  m11  length:49.316845  average speed:1.081510  
+Speed:0.841600  begin:2956  end:3325  m21  m15  m16  m20  m10  m11  length:30.677538  average speed:0.831370  
+Speed:1.068965  begin:2959  end:3640  m7  m3  m2  m1  m9  m10  m12  m13  m14  m21  length:72.157257  average speed:1.059578  
+Speed:0.977343  begin:2984  end:3478  m17  m19  m15  m14  m13  m12  m10  m11  length:50.866707  average speed:1.029690  
+Speed:0.965732  begin:2987  end:3292  m8  m3  m2  m7  length:27.758358  average speed:0.910110  
+Speed:0.910732  begin:3008  end:3504  m21  m14  m13  m12  m10  m11  length:44.737408  average speed:0.901964  
+Speed:0.899630  begin:3043  end:3615  m21  m14  m13  m12  m10  m20  m11  length:51.098232  average speed:0.893326  
+Speed:1.046519  begin:3049  end:3423  m11  m20  m10  m9  m1  m2  m7  length:40.847904  average speed:1.092190  
+Speed:0.964944  begin:3080  end:3178  m17  m19  m8  length:12.723501  average speed:1.298316  
+Speed:0.868670  begin:3111  end:3758  m21  m15  m16  m20  m10  m12  m13  m14  length:55.793430  average speed:0.862340  
+Speed:0.889642  begin:3113  end:3407  m11  m20  m16  m15  m19  m8  length:30.621992  average speed:1.041564  
+Speed:0.988100  begin:3139  end:3164  m17  m18  length:2.350532  average speed:0.940213  
+Speed:0.889367  begin:3146  end:3725  m7  m2  m1  m9  m10  m20  m16  m15  m21  length:53.193756  average speed:0.918718  
+Speed:1.023215  begin:3168  end:3192  m17  m18  length:2.350532  average speed:0.979388  
+Speed:0.935052  begin:3171  end:3472  m11  m20  m16  m15  m14  m21  length:29.605961  average speed:0.983587  
+Speed:1.066134  begin:3172  end:3196  m17  m18  length:2.350532  average speed:0.979388  
+Speed:1.132018  begin:3172  end:3270  m8  m3  m7  length:17.861658  average speed:1.822618  
+Speed:0.973146  begin:3174  end:3394  m7  m3  m8  length:17.861658  average speed:0.811894  
+Speed:0.917069  begin:3180  end:3398  m7  m3  m4  m8  length:24.781227  average speed:1.136754  
+Speed:0.945891  begin:3217  end:3565  m11  m10  m9  m1  m2  m7  length:34.487076  average speed:0.991008  
+Speed:0.959308  begin:3243  end:3585  m11  m10  m9  m1  m2  m7  length:34.487076  average speed:1.008394  
+Speed:1.008971  begin:3248  end:3628  m21  m6  m5  m4  m3  m8  length:34.533501  average speed:0.908776  
+Speed:0.989865  begin:3254  end:3434  m21  m15  m19  m8  length:20.896774  average speed:1.160932  
+Speed:1.111224  begin:3271  end:3493  m21  m6  m5  m4  m8  length:29.351418  average speed:1.322136  
+Speed:0.980818  begin:3310  end:3494  m8  m3  m4  m6  m5  length:24.868629  average speed:1.351556  
+Speed:0.969828  begin:3323  end:3429  m17  m19  m8  length:12.723501  average speed:1.200330  
+Speed:0.776606  begin:3324  end:3701  m7  m2  m3  m8  length:27.758358  average speed:0.736296  
+Speed:0.998611  begin:3330  end:3576  m21  m6  m5  m4  m8  length:29.351418  average speed:1.193147  
+Speed:1.065504  begin:3333  end:3461  m17  m19  m15  m21  length:13.361723  average speed:1.043885  
+Speed:1.083965  begin:3357  end:3702  m7  m2  m3  m4  m5  m6  m21  length:38.977203  average speed:1.129774  
+Speed:1.022665  begin:3369  end:3892  m8  m4  m3  m2  m1  m9  m10  m20  m11  length:58.124111  average speed:1.111360  
+Speed:0.993768  begin:3376  end:4109  m7  m3  m2  m1  m9  m10  m12  m13  m14  m21  length:72.157257  average speed:0.984410  
+Speed:0.948477  begin:3405  end:3697  m8  m3  m4  m5  m6  m21  length:34.533504  average speed:1.182654  
+Speed:1.132307  begin:3415  end:3558  m21  m15  m19  m8  length:20.896774  average speed:1.461313  
+Speed:0.933989  begin:3431  end:4230  m17  m19  m15  m14  m13  m12  m10  m9  m1  m2  m3  m7  length:78.286560  average speed:0.979807  
+Speed:0.926474  begin:3456  end:3597  m21  m15  m19  m17  length:13.361722  average speed:0.947640  
+Speed:1.002141  begin:3521  end:3972  m11  m10  m12  m13  m14  m21  length:44.737408  average speed:0.991960  
+Speed:0.929855  begin:3535  end:3778  m7  m3  m4  m6  m21  length:22.191740  average speed:0.913240  
+Speed:1.050861  begin:3544  end:4080  m21  m15  m16  m20  m10  m12  m13  m14  length:55.793430  average speed:1.040922  
+Speed:0.957922  begin:3544  end:3828  m11  m20  m16  m15  m19  m8  length:30.621992  average speed:1.078239  
+Speed:1.040633  begin:3563  end:3662  m8  m19  m17  length:12.723501  average speed:1.285202  
+Speed:1.068098  begin:3574  end:3941  m11  m20  m10  m9  m1  m2  m7  length:40.847904  average speed:1.113022  
+Speed:1.007275  begin:3597  end:3756  m21  m15  m19  m8  length:20.896774  average speed:1.314263  
+Speed:0.852304  begin:3638  end:4492  m21  m14  m13  m12  m10  m9  m1  m2  m3  m7  length:72.157265  average speed:0.844933  
+Speed:1.158273  begin:3647  end:4129  m7  m2  m1  m9  m10  m20  m16  m15  m19  m8  length:62.278671  average speed:1.292089  
+Speed:0.975994  begin:3653  end:3833  m21  m6  m4  m8  length:22.462656  average speed:1.247925  
+Speed:1.178937  begin:3671  end:3999  m8  m3  m4  m5  m6  m21  length:34.533504  average speed:1.052851  
+Speed:1.032069  begin:3676  end:4057  m11  m20  m10  m9  m1  m2  m7  length:40.847904  average speed:1.072123  
+Speed:1.112086  begin:3694  end:3785  m17  m19  m8  length:12.723501  average speed:1.398187  
+Speed:1.101556  begin:3705  end:3829  m17  m19  m15  m21  length:13.361723  average speed:1.077558  
+Speed:0.867554  begin:3708  end:4213  m21  m14  m13  m12  m10  m11  length:44.737408  average speed:0.885889  
+Speed:0.900247  begin:3712  end:4376  m11  m20  m10  m12  m13  m14  m15  m19  m8  length:64.762589  average speed:0.975340  
+Speed:1.079378  begin:3719  end:3993  m7  m3  m4  m5  m6  m21  length:29.080503  average speed:1.061332  
+Speed:0.821861  begin:3719  end:4399  m17  m19  m15  m14  m13  m12  m10  m20  m11  length:57.227531  average speed:0.841581  
+Speed:1.028392  begin:3729  end:3999  m7  m2  m3  m4  m8  length:34.677929  average speed:1.284368  
+Speed:1.070922  begin:3769  end:3957  m7  m3  m4  m8  length:24.781227  average speed:1.318150  
+Speed:1.018204  begin:3777  end:4255  m11  m10  m9  m1  m2  m3  m8  length:44.843716  average speed:0.938153  
+Speed:1.039389  begin:3781  end:4096  m11  m10  m9  m1  m2  m7  length:34.487076  average speed:1.094828  
+Speed:0.912432  begin:3800  end:3994  m8  m4  m6  m21  length:22.462656  average speed:1.157869  
+Speed:1.071379  begin:3853  end:4063  m7  m3  m4  m6  m21  length:22.191740  average speed:1.056750  
+Speed:1.203337  begin:3865  end:4183  m8  m3  m2  m1  m9  m10  m11  length:44.843716  average speed:1.410180  
+Speed:1.106781  begin:3877  end:4096  m21  m14  m15  m19  m8  length:28.965660  average speed:1.322633  
+Speed:1.147759  begin:3936  end:4182  m21  m14  m15  m16  m20  m11  length:29.605961  average speed:1.203494  
+Speed:0.924290  begin:3981  end:4385  m11  m10  m20  m16  m15  m19  m8  length:39.762455  average speed:0.984219  
+Speed:1.151238  begin:4002  end:4421  m11  m10  m12  m13  m14  m15  m21  length:49.316845  average speed:1.177013  
+Speed:1.037855  begin:4016  end:4195  m8  m19  m15  m21  length:20.896774  average speed:1.167418  
+Speed:0.969991  begin:4024  end:4787  m8  m4  m3  m2  m1  m9  m10  m20  m16  m15  m21  length:70.469963  average speed:0.923591  
+Speed:0.913488  begin:4030  end:4057  m17  m18  length:2.350532  average speed:0.870567  
+Speed:1.065896  begin:4113  end:4303  m8  m4  m3  m7  length:24.781227  average speed:1.304275  
+Speed:0.950376  begin:4129  end:4671  m11  m20  m10  m12  m13  m14  m21  length:51.098232  average speed:0.942772  
+Speed:1.066133  begin:4129  end:4404  m7  m2  m3  m8  length:27.758358  average speed:1.009395  
+Speed:1.160203  begin:4149  end:4303  m8  m4  m6  m21  length:22.462656  average speed:1.458614  
+Speed:1.066601  begin:4179  end:4270  m17  m19  m8  length:12.723501  average speed:1.398187  
+Speed:1.098749  begin:4213  end:4314  m8  m3  m7  length:17.861658  average speed:1.768481  
+Speed:0.989639  begin:4237  end:4536  m7  m3  m4  m5  m6  m21  length:29.080503  average speed:0.972592  
+Speed:0.882212  begin:4243  end:4687  m11  m20  m10  m9  m1  m2  m7  length:40.847904  average speed:0.919998  
+Speed:0.997104  begin:4251  end:4361  m8  m3  m7  length:17.861658  average speed:1.623787  
+Speed:1.028654  begin:4270  end:4371  m8  m19  m17  length:12.723501  average speed:1.259753  
+Speed:1.103093  begin:4304  end:4502  m21  m15  m16  m20  m11  length:21.537075  average speed:1.087731  
+Speed:1.035517  begin:4352  end:4376  m17  m18  length:2.350532  average speed:0.979388  
+Speed:0.954761  begin:4360  end:4617  m21  m6  m5  m4  m8  length:29.351418  average speed:1.142079  
+Speed:1.298439  begin:4361  end:4535  m21  m14  m15  m19  m8  length:28.965660  average speed:1.664693  
+Speed:1.107310  begin:4362  end:4521  m21  m6  m4  m8  length:22.462656  average speed:1.412746  
+Speed:1.088857  begin:4363  end:4725  m7  m2  m1  m9  m10  m20  m11  length:40.847904  average speed:1.128395  
+Speed:1.125190  begin:4387  end:4492  m21  m15  m19  m17  length:13.361722  average speed:1.272545  
+Speed:1.036432  begin:4404  end:4643  m8  m4  m5  m6  m21  length:29.351419  average speed:1.228093  
+Speed:0.839522  begin:4411  end:4802  m7  m2  m1  m9  m10  m11  length:34.487076  average speed:0.882022  
+Speed:1.001939  begin:4469  end:4680  m7  m3  m8  length:17.861658  average speed:0.846524  
+Speed:0.965880  begin:4474  end:5008  m11  m20  m10  m12  m13  m14  m21  length:51.098232  average speed:0.956896  
+Speed:0.929592  begin:4477  end:4709  m7  m3  m8  length:17.861658  average speed:0.769899  
+Speed:1.242558  begin:4489  end:4800  m7  m3  m2  m1  m9  m10  m11  length:39.390713  average speed:1.266582  
+Speed:0.952003  begin:4560  end:4663  m17  m19  m8  length:12.723501  average speed:1.235291  
+Speed:1.103194  begin:4570  end:5054  m17  m19  m15  m16  m20  m10  m9  m1  m2  m7  length:54.743618  average speed:1.131066  
+Speed:0.947612  begin:4578  end:4604  m17  m18  length:2.350532  average speed:0.904051  
+Speed:0.888124  begin:4608  end:5148  m21  m15  m14  m13  m12  m10  m11  length:49.316845  average speed:0.913275  
+Speed:1.034603  begin:4610  end:4710  m17  m19  m8  length:12.723501  average speed:1.272350  
+Speed:0.888216  begin:4626  end:4883  m21  m14  m15  m19  m8  length:28.965660  average speed:1.127068  
+Speed:0.920349  begin:4631  end:4750  m8  m3  m7  length:17.861658  average speed:1.500980  
+Speed:0.984139  begin:4635  end:4740  m8  m19  m17  length:12.723501  average speed:1.211762  
+Speed:1.126206  begin:4655  end:5044  m21  m14  m13  m12  m10  m11  length:44.737408  average speed:1.150062  
+Speed:1.195396  begin:4668  end:4996  m7  m2  m1  m9  m10  m20  m11  length:40.847904  average speed:1.245363  
+Speed:1.039205  begin:4690  end:4882  m17  m19  m15  m14  m21  length:21.430609  average speed:1.116178  
+Speed:1.036547  begin:4695  end:4906  m11  m20  m16  m15  m19  m17  length:23.086941  average speed:1.094168  
+Speed:1.042998  begin:4697  end:4906  m11  m20  m16  m15  m21  length:21.537075  average speed:1.030482  
+Speed:1.055651  begin:4704  end:4797  m17  m19  m8  length:12.723501  average speed:1.368118  
+Speed:1.041338  begin:4732  end:4831  m8  m19  m17  length:12.723501  average speed:1.285202  
+Speed:1.074069  begin:4739  end:4762  m17  m18  length:2.350532  average speed:1.021970  
+Speed:1.066284  begin:4739  end:5004  m11  m20  m16  m15  m14  m21  length:29.605961  average speed:1.117206  
+Speed:0.920443  begin:4741  end:4959  m8  m4  m3  m7  length:24.781227  average speed:1.136754  
+Speed:0.976991  begin:4763  end:4956  m8  m3  m2  m7  length:27.758358  average speed:1.438257  
+Speed:0.933406  begin:4772  end:5457  m8  m19  m15  m14  m13  m12  m10  m20  m16  length:67.666977  average speed:0.987839  
+Speed:1.067193  begin:4783  end:4806  m17  m18  length:2.350532  average speed:1.021970  
+Speed:0.971211  begin:4808  end:4834  m17  m18  length:2.350532  average speed:0.904051  
+Speed:1.063958  begin:4861  end:5081  m17  m19  m15  m16  m20  m11  length:23.086939  average speed:1.049406  
+Speed:0.865542  begin:4902  end:5353  m7  m2  m1  m9  m10  m20  m11  length:40.847904  average speed:0.905718  
+Speed:0.966098  begin:4912  end:5136  m8  m3  m7  length:17.861658  average speed:0.797395  
+Speed:1.079468  begin:4916  end:5219  m7  m2  m1  m9  m10  m11  length:34.487076  average speed:1.138187  
+Speed:0.973267  begin:5058  end:5278  m7  m3  m8  length:17.861658  average speed:0.811894  
+Speed:1.074983  begin:5080  end:5577  m11  m10  m12  m13  m14  m15  m16  m20  length:54.446449  average speed:1.095502  
+Speed:1.121623  begin:5086  end:5108  m17  m18  length:2.350532  average speed:1.068424  
+Speed:1.021955  begin:5093  end:5322  m17  m19  m15  m16  m20  m11  length:23.086939  average speed:1.008163  
+Speed:0.950179  begin:5096  end:5406  m7  m3  m4  m5  m6  m21  length:29.080503  average speed:0.938081  
+Speed:0.943161  begin:5120  end:5318  m8  m19  m15  m21  length:20.896774  average speed:1.055393  
+Speed:1.041782  begin:5146  end:5523  m11  m20  m10  m9  m1  m2  m7  length:40.847904  average speed:1.083499  
+Speed:1.133200  begin:5174  end:5374  m21  m14  m15  m19  m8  length:28.965660  average speed:1.448283  
+Speed:1.016551  begin:5176  end:5391  m11  m20  m16  m15  m21  length:21.537075  average speed:1.001724  
+Speed:0.993457  begin:5186  end:5387  m17  m19  m15  m14  m21  length:21.430609  average speed:1.066199  
+Speed:1.092983  begin:5204  end:5299  m8  m19  m17  length:12.723501  average speed:1.339316  
+Speed:1.047310  begin:5210  end:5957  m11  m20  m16  m15  m14  m13  m12  m10  m9  m1  m2  m7  length:81.558273  average speed:1.091811  
+Speed:1.168510  begin:5230  end:5368  m21  m6  m4  m5  length:15.836584  average speed:1.147579  
+Speed:1.024476  begin:5249  end:5463  m11  m20  m16  m15  m21  length:21.537075  average speed:1.006405  
+Speed:0.946292  begin:5270  end:5380  m8  m19  m17  length:12.723501  average speed:1.156682  
+Speed:1.165389  begin:5271  end:5457  m7  m3  m8  length:17.861658  average speed:0.960304  
+Speed:1.084357  begin:5280  end:5912  m21  m15  m14  m13  m12  m10  m9  m1  m2  m7  length:71.833061  average speed:1.136599  
+Speed:0.935886  begin:5298  end:5325  m17  m18  length:2.350532  average speed:0.870567  
+Speed:1.000311  begin:5313  end:5601  m7  m2  m3  m8  length:27.758358  average speed:0.963832  
+Speed:1.153568  begin:5389  end:5471  m17  m19  m8  length:12.723501  average speed:1.551646  
+Speed:1.200269  begin:5419  end:5884  m21  m14  m15  m16  m20  m10  m12  m13  length:57.011932  average speed:1.226063  
+Speed:1.079456  begin:5422  end:5933  m11  m10  m20  m16  m15  m14  m13  m12  length:56.446224  average speed:1.104623  
+Speed:0.913983  begin:5438  end:6063  m21  m15  m14  m13  m12  m10  m20  m16  length:58.582058  average speed:0.937313  
+Speed:0.868996  begin:5473  end:5901  m7  m2  m3  m4  m5  m6  m21  length:38.977203  average speed:0.910682  
+Speed:1.042903  begin:5501  end:5607  m8  m3  m7  length:17.861658  average speed:1.685062  
+Speed:0.959337  begin:5515  end:6005  m11  m10  m9  m1  m2  m3  m4  m6  m5  length:46.397682  average speed:0.946891  
+Speed:1.095184  begin:5519  end:5797  m21  m6  m4  m3  m2  m7  length:32.088440  average speed:1.154260  
+Speed:1.080442  begin:5540  end:6147  m21  m15  m16  m20  m10  m9  m1  m2  m3  m4  m6  m5  length:65.104362  average speed:1.072560  
+Speed:0.986103  begin:5551  end:6020  m7  m3  m2  m1  m9  m10  m20  m11  length:45.751537  average speed:0.975513  
+Speed:0.932155  begin:5561  end:6046  m21  m14  m13  m12  m10  m11  length:44.737408  average speed:0.922421  
+Speed:0.994866  begin:5577  end:5889  m11  m10  m20  m16  m15  m21  length:30.677540  average speed:0.983254  
+Speed:0.978448  begin:5577  end:5807  m21  m6  m4  m3  m7  length:22.191738  average speed:0.964858  
+Speed:1.063205  begin:5588  end:5716  m17  m19  m15  m21  length:13.361723  average speed:1.043885  
+Speed:0.933140  begin:5611  end:6118  m8  m4  m3  m2  m1  m9  m10  m11  length:51.763287  average speed:1.020972  
+Speed:0.863058  begin:5618  end:5829  m21  m14  m15  m19  m17  length:21.430609  average speed:1.015669  
+Speed:0.997911  begin:5632  end:5962  m11  m10  m9  m1  m2  m7  length:34.487076  average speed:1.045063  
+Speed:1.054154  begin:5636  end:5730  m17  m19  m8  length:12.723501  average speed:1.353564  
+Speed:0.885820  begin:5638  end:5988  m11  m10  m20  m16  m15  m21  length:30.677540  average speed:0.876501  
+Speed:1.021093  begin:5657  end:5750  m17  m19  m8  length:12.723501  average speed:1.368118  
+Speed:0.882207  begin:5688  end:6016  m7  m2  m3  m8  length:27.758358  average speed:0.846291  
+Speed:0.878064  begin:5765  end:5890  m8  m3  m7  length:17.861658  average speed:1.428933  
+Speed:1.001658  begin:5777  end:5887  m8  m3  m7  length:17.861658  average speed:1.623787  
+Speed:0.865256  begin:5817  end:6180  m7  m2  m1  m9  m10  m11  length:34.487076  average speed:0.950057  
+Speed:1.186933  begin:5832  end:6411  m21  m15  m14  m13  m12  m10  m9  m1  m2  m7  length:71.833061  average speed:1.240640  
+Speed:1.067993  begin:5863  end:6202  m11  m10  m20  m16  m15  m19  m8  length:39.762455  average speed:1.172934  
+Speed:1.206871  begin:5868  end:6043  m7  m3  m8  length:17.861658  average speed:1.020666  
+Speed:0.804099  begin:5873  end:6215  m7  m2  m3  m4  m6  m5  length:29.312328  average speed:0.857086  
+Speed:0.945979  begin:5881  end:6112  m11  m20  m16  m15  m21  length:21.537075  average speed:0.932341  
+Speed:0.965937  begin:5923  end:6436  m17  m19  m15  m14  m13  m12  m10  m11  length:50.866707  average speed:0.991554  
+Speed:0.720599  begin:5938  end:6279  m8  m4  m5  m6  m21  length:29.351419  average speed:0.860745  
+Speed:1.051782  begin:5938  end:6220  m7  m2  m3  m8  length:27.758358  average speed:0.984339  
+Speed:1.073559  begin:5942  end:6046  m8  m3  m7  length:17.861658  average speed:1.717467  
+Speed:1.135861  begin:5943  end:6085  m21  m6  m4  m5  length:15.836584  average speed:1.115252  
+Speed:1.008967  begin:5952  end:6799  m11  m20  m16  m15  m14  m13  m12  m10  m9  m1  m2  m3  m7  length:86.461914  average speed:1.020802  
+Speed:1.176240  begin:6057  end:6146  m8  m19  m17  length:12.723501  average speed:1.429607  
+Speed:0.906687  begin:6063  end:6214  m17  m19  m15  m21  length:13.361723  average speed:0.884882  
+Speed:1.009752  begin:6096  end:6318  m7  m3  m4  m6  m21  length:22.191740  average speed:0.999628  
+Speed:1.016066  begin:6108  end:6243  m17  m19  m15  m21  length:13.361723  average speed:0.989757  
+Speed:1.072926  begin:6111  end:6265  m21  m15  m19  m8  length:20.896774  average speed:1.356933  
+Speed:0.999505  begin:6112  end:6504  m11  m20  m10  m9  m1  m2  m7  length:40.847904  average speed:1.042038  
+Speed:0.805570  begin:6113  end:6144  m17  m18  length:2.350532  average speed:0.758236  
+Speed:0.962988  begin:6160  end:6417  m8  m4  m5  m6  m21  length:29.351419  average speed:1.142079  
+Speed:1.089514  begin:6172  end:6344  m8  m19  m15  m21  length:20.896774  average speed:1.214929  
+Speed:0.961028  begin:6237  end:6560  m11  m10  m20  m16  m15  m21  length:30.677540  average speed:0.949769  
+Speed:0.929434  begin:6244  end:6799  m21  m15  m16  m20  m10  m9  m1  m2  m7  length:53.193756  average speed:0.958446  
+Speed:1.056761  begin:6255  end:6750  m11  m20  m10  m12  m13  m14  m15  m16  length:53.307274  average speed:1.076915  
+Speed:0.762441  begin:6257  end:6289  m17  m18  length:2.350532  average speed:0.734541  
+Speed:1.135812  begin:6321  end:6744  m11  m10  m12  m13  m14  m15  m21  length:49.316845  average speed:1.165883  
+Speed:0.878842  begin:6338  end:6579  m7  m3  m8  length:17.861658  average speed:0.741148  
+Speed:0.871378  begin:6359  end:6514  m17  m19  m15  m21  length:13.361723  average speed:0.862047  
+Speed:1.058525  begin:6367  end:6634  m11  m20  m16  m15  m14  m21  length:29.605961  average speed:1.108837  
+Speed:1.035182  begin:6392  end:6873  m17  m19  m15  m14  m13  m12  m10  m11  length:50.866707  average speed:1.057520  
+Speed:1.099696  begin:6393  end:6494  m8  m3  m7  length:17.861658  average speed:1.768481  
+Speed:0.944594  begin:6399  end:6623  m7  m3  m8  length:17.861658  average speed:0.797395  
+Speed:1.090563  begin:6400  end:6601  m21  m15  m16  m20  m11  length:21.537075  average speed:1.071496  
+Speed:1.027515  begin:6412  end:6782  m21  m6  m5  m4  m3  m8  length:34.533501  average speed:0.933338  
+Speed:0.951430  begin:6416  end:6525  m8  m19  m17  length:12.723501  average speed:1.167294  
+Speed:1.069237  begin:6452  end:6704  m11  m20  m16  m15  m19  m8  length:30.621992  average speed:1.215158  
+Speed:0.974832  begin:6462  end:7001  m11  m10  m12  m13  m14  m15  m19  m8  length:58.401760  average speed:1.083521  
+Speed:0.993086  begin:6464  end:6711  m21  m6  m5  m4  m8  length:29.351418  average speed:1.188316  
+Speed:0.972319  begin:6473  end:6857  m7  m2  m3  m4  m5  m6  m21  length:38.977203  average speed:1.015031  
+Speed:0.949403  begin:6482  end:6508  m17  m18  length:2.350532  average speed:0.904051  
+Speed:0.947815  begin:6482  end:6993  m11  m10  m9  m1  m2  m3  m8  length:44.843716  average speed:0.877568  
+Speed:0.918817  begin:6499  end:6662  m8  m4  m6  m5  length:19.686543  average speed:1.207763  
+Speed:0.891246  begin:6515  end:6913  m11  m10  m20  m16  m15  m19  m8  length:39.762455  average speed:0.999057  
+Speed:0.862534  begin:6548  end:6669  m8  m19  m17  length:12.723501  average speed:1.051529  
+Speed:1.104850  begin:6553  end:6716  m8  m3  m4  m6  m5  length:24.868629  average speed:1.525683  
+Speed:1.070726  begin:6555  end:6787  m8  m4  m5  m6  m21  length:29.351419  average speed:1.265147  
+Speed:1.042629  begin:6577  end:6673  m17  m19  m8  length:12.723501  average speed:1.325365  
+Speed:0.966271  begin:6583  end:6906  m11  m10  m20  m16  m15  m21  length:30.677540  average speed:0.949769  
+Speed:1.085638  begin:6608  end:7383  m21  m15  m14  m13  m12  m10  m9  m1  m2  m3  m8  length:82.189697  average speed:1.060512  
+Speed:0.919566  begin:6615  end:7021  m7  m2  m3  m4  m5  m6  m21  length:38.977203  average speed:0.960030  
+Speed:1.077651  begin:6629  end:6652  m17  m18  length:2.350532  average speed:1.021970  
+Speed:1.097304  begin:6638  end:6908  m21  m6  m5  m4  m3  m7  length:29.080502  average speed:1.077056  
+Speed:0.982017  begin:6661  end:7505  m8  m4  m3  m2  m1  m9  m10  m12  m13  m14  m15  m19  m17  length:90.659134  average speed:1.074160  
+Speed:1.011508  begin:6667  end:6770  m8  m19  m17  length:12.723501  average speed:1.235291  
+Speed:1.031777  begin:6693  end:6794  m8  m19  m17  length:12.723501  average speed:1.259753  
+Speed:1.033231  begin:6747  end:6959  m11  m20  m16  m15  m21  length:21.537075  average speed:1.015900  
+Speed:1.153198  begin:6795  end:6958  m8  m19  m15  m21  length:20.896774  average speed:1.282011  
+Speed:0.922831  begin:6810  end:6837  m17  m18  length:2.350532  average speed:0.870567  
+Speed:0.881893  begin:6864  end:7232  m21  m6  m5  m4  m8  length:29.351418  average speed:0.797593  
+Speed:1.068186  begin:6873  end:7538  m8  m3  m2  m1  m9  m10  m12  m13  m14  m21  length:77.610260  average speed:1.167072  
+Speed:1.119962  begin:6874  end:6896  m17  m18  length:2.350532  average speed:1.068424  
+Speed:0.860041  begin:6877  end:7219  m7  m2  m3  m8  length:27.758358  average speed:0.811648  
+Speed:0.983936  begin:6908  end:7088  m21  m6  m4  m8  length:22.462656  average speed:1.247925  
+Speed:1.030503  begin:6926  end:7026  m17  m19  m8  length:12.723501  average speed:1.272350  
+Speed:0.963799  begin:6929  end:7126  m8  m3  m7  length:17.861658  average speed:0.906683  
+Speed:0.996911  begin:6951  end:7061  m8  m3  m7  length:17.861658  average speed:1.623787  
+Speed:1.077621  begin:6982  end:7426  m21  m15  m14  m13  m12  m10  m11  length:49.316845  average speed:1.110740  
+Speed:0.980291  begin:6992  end:7463  m7  m3  m2  m1  m9  m10  m20  m11  length:45.751537  average speed:0.971370  
+Speed:1.011585  begin:7062  end:7509  m11  m10  m12  m13  m14  m21  length:44.737408  average speed:1.000837  
+Speed:0.899782  begin:7065  end:7392  m7  m2  m3  m8  length:27.758358  average speed:0.848879  
+Speed:1.019787  begin:7077  end:7232  m21  m15  m19  m8  length:20.896774  average speed:1.348179  
+Speed:0.851781  begin:7109  end:7453  m7  m3  m4  m5  m6  m21  length:29.080503  average speed:0.845363  
+Speed:0.923061  begin:7133  end:7874  m21  m15  m14  m13  m12  m10  m9  m1  m2  m7  length:71.833061  average speed:0.969407  
+Speed:0.974697  begin:7134  end:7370  m21  m14  m15  m19  m8  length:28.965660  average speed:1.227358  
+Speed:1.071321  begin:7169  end:7710  m21  m14  m15  m16  m20  m10  m9  m1  m2  m7  length:61.262642  average speed:1.132396  
+Speed:0.937656  begin:7178  end:7828  m8  m19  m15  m14  m13  m12  m10  m20  m11  length:64.762589  average speed:0.996348  
+Speed:1.322368  begin:7201  end:7796  m7  m2  m1  m9  m10  m12  m13  m14  m15  m16  m20  m11  length:81.558273  average speed:1.370727  
+Speed:0.900020  begin:7201  end:7637  m11  m20  m10  m9  m1  m2  m7  length:40.847904  average speed:0.936879  
+Speed:0.905967  begin:7236  end:7343  m17  m19  m8  length:12.723501  average speed:1.189112  
+Speed:1.135413  begin:7246  end:7379  m8  m4  m6  m5  length:19.686543  average speed:1.480191  
+Speed:0.882249  begin:7246  end:7493  m11  m20  m16  m15  m21  length:21.537075  average speed:0.871946  
+Speed:1.041015  begin:7278  end:7390  m21  m15  m19  m17  length:13.361722  average speed:1.193011  
+Speed:0.896502  begin:7288  end:7316  m17  m18  length:2.350532  average speed:0.839476  
+Speed:1.021205  begin:7339  end:7617  m8  m19  m15  m16  m20  m11  length:30.621990  average speed:1.101510  
+Speed:0.968996  begin:7347  end:7373  m17  m18  length:2.350532  average speed:0.904051  
+Speed:0.901740  begin:7348  end:7662  m21  m14  m15  m16  m20  m11  length:29.605961  average speed:0.942865  
+Speed:1.020990  begin:7396  end:7685  m7  m3  m4  m5  m6  m21  length:29.080503  average speed:1.006246  
+Speed:0.978696  begin:7411  end:7617  m8  m4  m3  m7  length:24.781227  average speed:1.202972  
+Speed:1.243899  begin:7413  end:7777  m11  m10  m12  m13  m14  m21  length:44.737408  average speed:1.229050  
+Speed:0.974272  begin:7455  end:7481  m17  m18  length:2.350532  average speed:0.904051  
+Speed:0.976567  begin:7474  end:7580  m8  m19  m17  length:12.723501  average speed:1.200330  
+Speed:0.931372  begin:7494  end:7706  m7  m3  m4  m6  m5  length:19.415627  average speed:0.915831  
+Speed:0.953119  begin:7498  end:7759  m8  m19  m15  m14  m21  length:28.965660  average speed:1.109795  
+Speed:0.982593  begin:7520  end:7820  m7  m3  m4  m5  m6  m21  length:29.080503  average speed:0.969350  
+Speed:1.034724  begin:7545  end:7646  m8  m19  m17  length:12.723501  average speed:1.259753  
+Speed:1.146106  begin:7551  end:8135  m21  m15  m16  m20  m10  m9  m1  m2  m3  m8  length:63.550396  average speed:1.088192  
+Speed:1.010951  begin:7594  end:8041  m11  m10  m12  m13  m14  m21  length:44.737408  average speed:1.000837  
+Speed:1.029319  begin:7608  end:8138  m8  m19  m15  m14  m13  m12  m10  m11  length:58.401760  average speed:1.101920  
+Speed:1.207354  begin:7625  end:7646  m17  m18  length:2.350532  average speed:1.119301  
+Speed:1.060945  begin:7699  end:7920  m17  m19  m15  m16  m20  m11  length:23.086939  average speed:1.044658  
+Speed:1.047680  begin:7714  end:7738  m17  m18  length:2.350532  average speed:0.979388  
+Speed:1.081888  begin:7716  end:7918  m11  m20  m16  m15  m21  length:21.537075  average speed:1.066192  
+Speed:1.002197  begin:7718  end:7835  m21  m15  m19  m17  length:13.361722  average speed:1.142028  
+Speed:0.996160  begin:7746  end:7851  m8  m19  m17  length:12.723501  average speed:1.211762  
+Speed:1.028451  begin:7765  end:8127  m7  m2  m3  m4  m5  m6  m21  length:38.977203  average speed:1.076718  
+Speed:1.031726  begin:7813  end:7913  m17  m19  m8  length:12.723501  average speed:1.272350  
+Speed:1.097703  begin:7814  end:8478  m21  m14  m13  m12  m10  m9  m1  m2  m3  m7  length:72.157265  average speed:1.086706  
+Speed:1.016282  begin:7834  end:7928  m17  m19  m8  length:12.723501  average speed:1.353564  
+Speed:0.976915  begin:7857  end:8227  m21  m14  m15  m16  m20  m10  m11  length:38.746426  average speed:1.047201  
+Speed:1.205278  begin:7866  end:8047  m21  m15  m16  m20  m11  length:21.537075  average speed:1.189894  
+Speed:0.899409  begin:7873  end:7901  m17  m18  length:2.350532  average speed:0.839476  
+Speed:1.056072  begin:7893  end:8181  m21  m6  m4  m3  m2  m7  length:32.088440  average speed:1.114182  
+Speed:0.949179  begin:7902  end:8378  m11  m10  m12  m13  m14  m21  length:44.737408  average speed:0.939862  
+Speed:1.055741  begin:7926  end:8037  m21  m15  m19  m17  length:13.361722  average speed:1.203759  
+Speed:0.976473  begin:7942  end:7968  m17  m18  length:2.350532  average speed:0.904051  
+Speed:1.023555  begin:7955  end:8197  m8  m19  m15  m14  m21  length:28.965660  average speed:1.196928  
+Speed:1.022582  begin:7992  end:8703  m7  m3  m2  m1  m9  m10  m12  m13  m14  m21  length:72.157257  average speed:1.014870  
+Speed:0.930110  begin:8053  end:8586  m17  m19  m15  m14  m13  m12  m10  m11  length:50.866707  average speed:0.954347  
+Speed:0.967556  begin:8055  end:8809  m7  m3  m2  m1  m9  m10  m12  m13  m14  m21  length:72.157257  average speed:0.956993  
+Speed:1.013249  begin:8056  end:8451  m11  m10  m9  m1  m2  m3  m7  length:39.390717  average speed:0.997233  
+Speed:0.863473  begin:8073  end:8322  m7  m3  m8  length:17.861658  average speed:0.717336  
+Speed:0.788336  begin:8138  end:8169  m17  m18  length:2.350532  average speed:0.758236  
+Speed:0.885260  begin:8159  end:9014  m7  m2  m1  m9  m10  m20  m16  m15  m14  m13  m12  length:78.962440  average speed:0.923537  
+Speed:1.046525  begin:8196  end:8615  m21  m14  m13  m12  m10  m11  length:44.737408  average speed:1.067719  
+Speed:1.039607  begin:8202  end:8481  m7  m2  m3  m8  length:27.758358  average speed:0.994923  
+Speed:1.063357  begin:8232  end:8528  m8  m3  m4  m6  m21  length:27.644743  average speed:0.933944  
+Speed:0.972706  begin:8239  end:8632  m8  m3  m2  m1  m9  m10  m11  length:44.843716  average speed:1.141061  
+Speed:0.954117  begin:8243  end:8586  m21  m6  m5  m4  m8  length:29.351418  average speed:0.855726  
+Speed:0.986324  begin:8296  end:8517  m8  m3  m7  length:17.861658  average speed:0.808220  
+Speed:1.154884  begin:8322  end:8893  m7  m2  m1  m9  m10  m12  m13  m14  m21  length:67.253616  average speed:1.177822  
+Speed:1.020289  begin:8322  end:8600  m8  m19  m15  m16  m20  m11  length:30.621990  average speed:1.101510  
+Speed:1.124282  begin:8322  end:8797  m11  m20  m10  m9  m1  m2  m3  m4  m8  length:58.124115  average speed:1.223666  
+Speed:1.087761  begin:8365  end:8595  m8  m19  m15  m14  m21  length:28.965660  average speed:1.259377  
+Speed:1.114913  begin:8406  end:8839  m11  m10  m12  m13  m14  m15  m21  length:49.316845  average speed:1.138957  
+Speed:0.926016  begin:8406  end:8807  m7  m2  m3  m4  m5  m6  m21  length:38.977203  average speed:0.972000  
+Speed:1.026085  begin:8414  end:8856  m11  m10  m12  m13  m14  m21  length:44.737408  average speed:1.012159  
+Speed:0.988999  begin:8440  end:8962  m11  m20  m10  m12  m13  m14  m21  length:51.098232  average speed:0.978893  
+Speed:1.005932  begin:8443  end:8770  m11  m10  m9  m1  m2  m7  length:34.487076  average speed:1.054651  
+Speed:1.092569  begin:8468  end:8768  m11  m10  m9  m1  m2  m7  length:34.487076  average speed:1.149569  
+Speed:0.937583  begin:8480  end:8507  m17  m18  length:2.350532  average speed:0.870567  
+Speed:1.150942  begin:8493  end:8566  m8  m3  m7  length:17.861658  average speed:2.446802  
+Speed:0.978049  begin:8543  end:8647  m17  m19  m8  length:12.723501  average speed:1.223414  
+Speed:1.045196  begin:8570  end:8926  m7  m2  m3  m4  m5  m6  m21  length:38.977203  average speed:1.094865  
+Speed:0.946381  begin:8576  end:8885  m7  m2  m3  m8  length:27.758358  average speed:0.898329  
+Speed:1.167790  begin:8594  end:8782  m21  m15  m16  m20  m11  length:21.537075  average speed:1.145589  
+Speed:1.091486  begin:8601  end:8784  m7  m3  m4  m8  length:24.781227  average speed:1.354165  
+Speed:0.873891  begin:8629  end:8844  m8  m3  m2  m7  length:27.758358  average speed:1.291086  
+Speed:1.148511  begin:8646  end:8920  m7  m2  m1  m9  m10  m11  length:34.487076  average speed:1.258652  
+Speed:0.968442  begin:8672  end:9526  m7  m3  m2  m1  m9  m10  m20  m16  m15  m14  m13  m12  length:83.866074  average speed:0.982038  
+Speed:0.955848  begin:8677  end:8985  m7  m3  m4  m5  m6  m21  length:29.080503  average speed:0.944172  
+Speed:0.977757  begin:8696  end:8965  m11  m20  m16  m15  m19  m8  length:30.621992  average speed:1.138364  
+Speed:1.150520  begin:8699  end:8721  m17  m18  length:2.350532  average speed:1.068424  
+Speed:0.892433  begin:8713  end:8914  m8  m3  m4  m6  m5  length:24.868629  average speed:1.237245  
+Speed:0.963339  begin:8773  end:9187  m7  m3  m2  m1  m9  m10  m11  length:39.390713  average speed:0.951466  
+Speed:0.896790  begin:8794  end:9240  m7  m3  m2  m1  m9  m10  m11  length:39.390713  average speed:0.883200  
+Speed:1.151026  begin:8794  end:9187  m11  m10  m12  m13  m14  m21  length:44.737408  average speed:1.138356  
+Speed:1.076395  begin:8806  end:9391  m11  m20  m10  m9  m1  m2  m3  m4  m5  m6  m21  length:62.423389  average speed:1.067066  
+Speed:1.003442  begin:8812  end:8909  m17  m19  m8  length:12.723501  average speed:1.311701  
+Speed:1.035803  begin:8821  end:9001  m8  m19  m15  m21  length:20.896774  average speed:1.160932  
+Speed:1.046652  begin:8826  end:9139  m11  m10  m9  m1  m2  m7  length:34.487076  average speed:1.101824  
+Speed:1.020961  begin:8866  end:9249  m11  m20  m10  m9  m1  m2  m7  length:40.847904  average speed:1.066525  
+Speed:1.020775  begin:8882  end:9156  m7  m2  m3  m4  m8  length:34.677929  average speed:1.265618  
+Speed:1.078297  begin:8899  end:9064  m8  m4  m6  m21  length:22.462656  average speed:1.361373  
+Speed:1.129950  begin:8944  end:9042  m8  m3  m7  length:17.861658  average speed:1.822618  
+Speed:0.921710  begin:8955  end:9808  m7  m2  m1  m9  m10  m12  m13  m14  m15  m16  m20  m11  length:81.558273  average speed:0.956135  
+Speed:1.103315  begin:8989  end:9272  m11  m10  m20  m16  m15  m21  length:30.677540  average speed:1.084012  
+Speed:1.125328  begin:9023  end:9282  m7  m2  m3  m8  length:27.758358  average speed:1.071751  
+Speed:1.023884  begin:9054  end:9359  m21  m6  m4  m3  m8  length:27.644741  average speed:0.906385  
+Speed:1.198095  begin:9054  end:9525  m21  m15  m16  m20  m10  m12  m13  m14  length:55.793430  average speed:1.184574  
+Speed:1.065928  begin:9068  end:9092  m17  m18  length:2.350532  average speed:0.979388  
+Speed:1.123185  begin:9102  end:9302  m21  m6  m4  m3  m7  length:22.191738  average speed:1.109587  
+Speed:0.876534  begin:9109  end:9556  m7  m2  m1  m9  m10  m20  m11  length:40.847904  average speed:0.913823  
+Speed:0.893330  begin:9113  end:9141  m17  m18  length:2.350532  average speed:0.839476  
+Speed:0.884475  begin:9123  end:9473  m21  m6  m4  m3  m8  length:27.644741  average speed:0.789850  
+Speed:0.984824  begin:9150  end:9537  m21  m6  m5  m4  m3  m8  length:34.533501  average speed:0.892339  
+Speed:1.071935  begin:9157  end:9356  m7  m3  m8  length:17.861658  average speed:0.897571  
+Speed:1.007076  begin:9172  end:9387  m7  m3  m8  length:17.861658  average speed:0.830775  
+Speed:1.199210  begin:9250  end:9836  m21  m14  m13  m12  m10  m9  m1  m2  m3  m7  length:72.157265  average speed:1.231353  
+Speed:1.124382  begin:9262  end:9481  m21  m6  m5  m4  m8  length:29.351418  average speed:1.340247  
+Speed:0.896028  begin:9271  end:9514  m21  m15  m16  m20  m11  length:21.537075  average speed:0.886299  
+Speed:1.029745  begin:9291  end:9610  m7  m2  m1  m9  m10  m11  length:34.487076  average speed:1.081100  
+Speed:0.916560  begin:9320  end:0  m7  m2  m1  m9  m10  m12  m13  m14  length:59.602966  average speed:-0.063952  
+Speed:0.987317  begin:9322  end:9844  m21  m14  m13  m12  m10  m20  m11  length:51.098232  average speed:0.978893  
+Speed:0.965695  begin:9375  end:0  m7  m2  m1  m9  m10  m20  m16  m15  m14  m13  length:60.462372  average speed:-0.064493  
+Speed:0.985870  begin:9387  end:9566  m21  m6  m4  m8  length:22.462656  average speed:1.254897  
+Speed:0.921771  begin:9411  end:9629  m8  m4  m3  m7  length:24.781227  average speed:1.136754  
+Speed:1.016753  begin:9488  end:9944  m7  m3  m2  m1  m9  m10  m20  m11  length:45.751537  average speed:1.003323  
+Speed:0.976429  begin:9504  end:0  m7  m2  m1  m9  m10  m12  length:34.252514  average speed:-0.036040  
+Speed:1.134872  begin:9509  end:9847  m8  m3  m2  m1  m9  m10  m11  length:44.843716  average speed:1.326737  
+Speed:0.678956  begin:9527  end:9960  m8  m3  m2  m7  length:27.758358  average speed:0.641071  
+Speed:1.047192  begin:9529  end:9778  m11  m20  m16  m15  m19  m8  length:30.621992  average speed:1.229799  
+Speed:0.916083  begin:9559  end:9875  m7  m2  m3  m8  length:27.758358  average speed:0.878429  
+Speed:0.837645  begin:9561  end:0  m7  m2  m1  m9  m10  m12  length:34.252514  average speed:-0.035825  
+Speed:0.939454  begin:9585  end:9771  m8  m4  m3  m7  length:24.781227  average speed:1.332324  
+Speed:1.055388  begin:9592  end:9799  m21  m15  m16  m20  m11  length:21.537075  average speed:1.040438  
+Speed:0.786014  begin:9605  end:9979  m7  m3  m4  m5  m6  m21  length:29.080503  average speed:0.777554  
+Speed:1.020161  begin:9648  end:9673  m17  m18  length:2.350532  average speed:0.940213  
+Speed:0.995067  begin:9653  end:9880  m11  m20  m16  m15  m19  m17  length:23.086941  average speed:1.017046  
+Speed:1.167936  begin:9655  end:0  m21  m15  m14  m13  m12  length:37.580544  average speed:-0.038923  
+Speed:1.035280  begin:9662  end:9872  m8  m3  m7  length:17.861658  average speed:0.850555  
+Speed:1.338558  begin:9670  end:9963  m7  m2  m1  m9  m10  m20  m11  length:40.847904  average speed:1.394126  
+Speed:0.884340  begin:9672  end:0  m7  m3  m2  m1  m9  length:28.605022  average speed:-0.029575  
+Speed:1.016415  begin:9716  end:9927  m7  m3  m8  length:17.861658  average speed:0.846524  
+Speed:1.006663  begin:9817  end:9913  m17  m19  m8  length:12.723501  average speed:1.325365  
+Speed:0.836514  begin:9820  end:0  m11  m20  m16  length:12.095613  average speed:-0.012317  
+Speed:0.816007  begin:9834  end:0  m7  m3  length:6.204329  average speed:-0.006309  
+Speed:1.080005  begin:9873  end:9981  m21  m15  m19  m17  length:13.361722  average speed:1.237196  
+Speed:0.934194  begin:9894  end:0  m8  m4  length:12.526072  average speed:-0.012660  
+Speed:0.849290  begin:9896  end:0  m8  m4  length:12.526072  average speed:-0.012658  
+Speed:1.069324  begin:9898  end:0  m11  m20  length:4.595613  average speed:-0.004643  
+Speed:1.169994  begin:9900  end:0  m8  m3  length:11.657330  average speed:-0.011775  
+Speed:0.838296  begin:9904  end:0  m7  m2  length:8.700860  average speed:-0.008785  
+Speed:1.114764  begin:9913  end:0  m7  m3  length:6.204329  average speed:-0.006259  
+Speed:0.984740  begin:9916  end:0  m8  m3  length:11.657330  average speed:-0.011756  
+Speed:1.021331  begin:9925  end:0  m7  m3  length:6.204329  average speed:-0.006251  
+Speed:0.779081  begin:9927  end:0  m8  length:0.000000  average speed:-0.000000  
+Speed:0.917558  begin:9939  end:0  m8  m3  length:11.657330  average speed:-0.011729  
+Speed:1.134322  begin:9940  end:0  m21  m15  length:5.905929  average speed:-0.005942  
+Speed:0.758419  begin:9992  end:0  m17  length:0.000000  average speed:-0.000000  
+Speed:0.975186  begin:9996  end:0  m8  length:0.000000  average speed:-0.000000  

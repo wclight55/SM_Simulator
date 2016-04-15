@@ -1,0 +1,6 @@
+Pattern:  m3 -> m5 -> m8 -> m10 -> m11     Unknown Pattern
+Duration:  2569  176  8  5103  5314  
+Pattern:  m3 -> m5 -> m8 -> m10 -> m11     Wash clothes
+Duration:  1275  111  13  2962  4848  
+Pattern:  m3 -> m5 -> m8 -> m10 -> m11     Go to sleep
+Duration:  413  311  14  457  4692  

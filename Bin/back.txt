@@ -1,0 +1,231 @@
+void __fastcall TfrmMainFrame::Button2Click(TObject *Sender)
+{
+    for(int i = 0;i<g_pProject->m_pFCMsNodeList->Count;i++){
+        FCMsNode*myobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+        myobj->at = new TList;
+        String s = myobj->m_strName;
+        s = s.SubString(2,s.Length()-1);
+        if(s == 12){
+            myobj->at = new TList;
+            NodeRecord* nr1 = new NodeRecord();
+            nr1->node = myobj;
+            nr1->count = 17;
+            myobj->at->Add(nr1);
+            NodeRecord* nr2 = new NodeRecord();
+            nr2->node = myobj;
+            nr2->count = 27;
+            myobj->at->Add(nr2);
+        }
+        else if(s == 31){
+            myobj->at = new TList;
+            NodeRecord* nr1 = new NodeRecord();
+            nr1->node = myobj;
+            nr1->count = 17;
+            myobj->at->Add(nr1);
+            NodeRecord* nr2 = new NodeRecord();
+            nr2->node = myobj;
+            nr2->count = 27;
+            myobj->at->Add(nr2);
+            NodeRecord* nr3 = new NodeRecord();
+            nr3->node = myobj;
+            nr3->count = 7;
+            myobj->at->Add(nr3);
+        }
+        else if(s == 19){
+            myobj->at = new TList;
+            NodeRecord* nr1 = new NodeRecord();
+            nr1->node = myobj;
+            nr1->count = 17;
+            myobj->at->Add(nr1);
+            NodeRecord* nr2 = new NodeRecord();
+            nr2->node = myobj;
+            nr2->count = 27;
+            myobj->at->Add(nr2);
+        }
+        else if(s == 2){
+            myobj->at = new TList;
+            for(int i = 0;i<g_pProject->m_pFCMsNodeList->Count;i++){
+                FCMsNode*mobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                String s = mobj->m_strName;
+                s = s.SubString(2,s.Length()-1);
+                if(s==13){
+                    FCMsNode*pobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                    NodeRecord* nr1 = new NodeRecord();
+                    nr1->node = pobj;
+                    nr1->count = 17;
+                    myobj->at->Add(nr1);
+                    NodeRecord* nr2 = new NodeRecord();
+                    nr2->node = pobj;
+                    nr2->count = 27;
+                    myobj->at->Add(nr2);
+                }
+            }
+        }
+        else if(s == 23){
+            myobj->at = new TList;
+            for(int i = 0;i<g_pProject->m_pFCMsNodeList->Count;i++){
+                FCMsNode*mobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                String s = mobj->m_strName;
+                s = s.SubString(2,s.Length()-1);
+                if(s==24){
+                    FCMsNode*pobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                    NodeRecord* nr1 = new NodeRecord();
+                    nr1->node = pobj;
+                    nr1->count = 17;
+                    myobj->at->Add(nr1);
+                    NodeRecord* nr2 = new NodeRecord();
+                    nr2->node = pobj;
+                    nr2->count = 27;
+                    myobj->at->Add(nr2);
+                    NodeRecord* nr3 = new NodeRecord();
+                    nr3->node = pobj;
+                    nr3->count = 7;
+                    myobj->at->Add(nr3);
+                }
+            }
+        }
+        else if(s == 18){
+            myobj->at = new TList;
+            for(int i = 0;i<g_pProject->m_pFCMsNodeList->Count;i++){
+                FCMsNode*mobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                String s = mobj->m_strName;
+                s = s.SubString(2,s.Length()-1);
+                if(s==19){
+                    FCMsNode*pobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                    NodeRecord* nr1 = new NodeRecord();
+                    nr1->node = pobj;
+                    myobj->at->Add(nr1);
+                }
+            }
+        }
+        else if(s == 10){
+            myobj->at = new TList;
+            for(int i = 0;i<g_pProject->m_pFCMsNodeList->Count;i++){
+                FCMsNode*mobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                String s = mobj->m_strName;
+                s = s.SubString(2,s.Length()-1);
+                if(s==18){
+                    FCMsNode*pobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                    NodeRecord* nr1 = new NodeRecord();
+                    nr1->node = pobj;
+                    myobj->at->Add(nr1);
+                }
+            }
+        }
+        else if(s == 9){
+            myobj->at = new TList;
+            for(int i = 0;i<g_pProject->m_pFCMsNodeList->Count;i++){
+                FCMsNode*mobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                String s = mobj->m_strName;
+                s = s.SubString(2,s.Length()-1);
+                if(s==10){
+                    FCMsNode*pobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                    NodeRecord* nr1 = new NodeRecord();
+                    nr1->node = pobj;
+                    myobj->at->Add(nr1);
+                }
+            }
+        }
+        else if(s == 14){
+            myobj->at = new TList;
+            for(int i = 0;i<g_pProject->m_pFCMsNodeList->Count;i++){
+                FCMsNode*mobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                String s = mobj->m_strName;
+                s = s.SubString(2,s.Length()-1);
+                if(s==12){
+                    FCMsNode*pobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                    NodeRecord* nr1 = new NodeRecord();
+                    nr1->node = pobj;
+                    myobj->at->Add(nr1);
+                }
+            }
+        }
+        else if(s == 13){
+            myobj->at = new TList;
+            for(int i = 0;i<g_pProject->m_pFCMsNodeList->Count;i++){
+                FCMsNode*mobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                String s = mobj->m_strName;
+                s = s.SubString(2,s.Length()-1);
+                if(s==14){
+                    FCMsNode*pobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                    NodeRecord* nr1 = new NodeRecord();
+                    nr1->node = pobj;
+                    myobj->at->Add(nr1);
+                }
+            }
+        }
+        else if(s == 29){
+            myobj->at = new TList;
+            for(int i = 0;i<g_pProject->m_pFCMsNodeList->Count;i++){
+                FCMsNode*mobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                String s = mobj->m_strName;
+                s = s.SubString(2,s.Length()-1);
+                if(s==31){
+                    FCMsNode*pobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                    NodeRecord* nr1 = new NodeRecord();
+                    nr1->node = pobj;
+                    myobj->at->Add(nr1);
+                }
+            }
+        }
+        else if(s == 21){
+            myobj->at = new TList;
+            for(int i = 0;i<g_pProject->m_pFCMsNodeList->Count;i++){
+                FCMsNode*mobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                String s = mobj->m_strName;
+                s = s.SubString(2,s.Length()-1);
+                if(s==29){
+                    FCMsNode*pobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                    NodeRecord* nr1 = new NodeRecord();
+                    nr1->node = pobj;
+                    myobj->at->Add(nr1);
+                }
+            }
+        }
+        else if(s == 24){
+            myobj->at = new TList;
+            for(int i = 0;i<g_pProject->m_pFCMsNodeList->Count;i++){
+                FCMsNode*mobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                String s = mobj->m_strName;
+                s = s.SubString(2,s.Length()-1);
+                if(s==21){
+                    FCMsNode*pobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                    NodeRecord* nr1 = new NodeRecord();
+                    nr1->node = pobj;
+                    myobj->at->Add(nr1);
+                }
+            }
+        }
+        else if(s == 11){
+            myobj->at = new TList;
+            for(int i = 0;i<g_pProject->m_pFCMsNodeList->Count;i++){
+                FCMsNode*mobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                String s = mobj->m_strName;
+                s = s.SubString(2,s.Length()-1);
+                if(s==9){
+                    FCMsNode*pobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+                    NodeRecord* nr1 = new NodeRecord();
+                    nr1->node = pobj;
+                    nr1->count = 17;
+                    myobj->at->Add(nr1);
+                    NodeRecord* nr2 = new NodeRecord();
+                    nr2->node = pobj;
+                    nr2->count = 27;
+                    myobj->at->Add(nr2);
+                }
+            }
+        }
+    }
+    for(int i = 0;i<g_pProject->m_pFCMsNodeList->Count;i++){
+        FCMsNode*myobj = (FCMsNode*)g_pProject->m_pFCMsNodeList->Items[i];
+        if(myobj->at->Count!=0){
+            frmMainFrame->ListBox1->Items->Add(myobj->m_strName);
+            for(int i=0;i<myobj->at->Count;i++){
+                NodeRecord*mobj = (NodeRecord*)myobj->at->Items[i];
+                frmMainFrame->ListBox1->Items->Add(mobj->node->m_strName);
+                frmMainFrame->ListBox1->Items->Add(IntToStr(mobj->count));
+            }
+        }
+    }
+
+}

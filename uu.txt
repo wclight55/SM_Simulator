@@ -1,0 +1,4 @@
+User:1  begin:5  end:12  m1  m3  length:7.230836  average speed:0.964112  
+User:2  begin:7  end:14  m1  m3  length:7.230836  average speed:1.047947  
+User:3  begin:13  end:0  m1  length:0.000000  average speed:-0.000000  
+valide trajectory:0        Total trajectory:3

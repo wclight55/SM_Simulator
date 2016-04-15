@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Root>
+	<ModelProperty><ModelName></ModelName><Author></Author><ModelDiscript></ModelDiscript><Lambda>0.05</Lambda><UnitDistance>0.05</UnitDistance><SamplingTime>0.1</SamplingTime><SpeedVariance>0.1</SpeedVariance><WalkingSpeed>1</WalkingSpeed><IterationTime>1000</IterationTime><XOFF>0</XOFF><YOFF>0</YOFF><Prop>1</Prop><LayoutFile></LayoutFile><NodeUI><LineColor>clBlack</LineColor><LineWidth>1</LineWidth><BrushColor>clYellow</BrushColor><FontColor>clBlack</FontColor><FontSize>8</FontSize></NodeUI><LineUI><LineColor>clOlive</LineColor><LineWidth>1</LineWidth><BrushColor>clBlack</BrushColor><FontColor>clBlack</FontColor><FontSize>8</FontSize></LineUI></ModelProperty><NodesList/><LineList/></Root>

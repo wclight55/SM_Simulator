@@ -1,0 +1,244 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<!-- C++Builder XML Project -->
+<PROJECT>
+  <MACROS>
+    <VERSION value="BCB.06.00"/>
+    <PROJECT value=".\Bin\SmartEnvironment.exe"/>
+    <OBJFILES value="Bin\SmartEnvironment.obj Bin\Output.obj Bin\property.obj Bin\MainFrame.obj 
+      Bin\UIProject.obj Bin\NodeEvent.obj Bin\LineEvent.obj Bin\projectModel.obj 
+      Bin\SelectRect.obj Bin\UIProjectXML.obj Bin\Dblarr.obj Bin\Matrix.obj 
+      Bin\Array.obj Bin\ReasonMachine.obj Bin\BelongFunction.obj 
+      Bin\RelationShip.obj Bin\Find.obj Bin\Simulator.obj Bin\ShowResult.obj 
+      Bin\About.obj Bin\ApplicationManager.obj Bin\DBEngine.obj Bin\UnitSim.obj 
+      Bin\UnitEvac.obj Bin\UnitSim2.obj Bin\Unit.obj Bin\Transfer.obj 
+      Bin\CreatPattern.obj"/>
+    <RESFILES value="SmartEnvironment.res"/>
+    <IDLFILES value=""/>
+    <IDLGENFILES value=""/>
+    <DEFFILE value=""/>
+    <RESDEPEN value="$(RESFILES) Output.dfm property.dfm MainFrame.dfm BelongFunction.dfm 
+      RelationShip.dfm Find.dfm ShowResult.dfm About.dfm UnitSim.dfm 
+      UnitEvac.dfm UnitSim2.dfm Unit.dfm Transfer.dfm CreatPattern.dfm"/>
+    <LIBFILES value=""/>
+    <LIBRARIES value="bcb2kaxserver.lib teedb.lib tee.lib nmfast.lib vclx.lib dxDBEdC6.lib 
+      vcldb.lib dxInsC6.lib dxEdtrC6.lib inet.lib xmlrtl.lib dxBarExtItemsC6.lib 
+      dxComnC6.lib dxBarC6.lib adortl.lib dbrtl.lib vcl.lib rtl.lib"/>
+    <SPARELIBS value="rtl.lib vcl.lib dbrtl.lib adortl.lib dxBarC6.lib dxComnC6.lib 
+      dxBarExtItemsC6.lib xmlrtl.lib inet.lib dxEdtrC6.lib dxInsC6.lib vcldb.lib 
+      dxDBEdC6.lib vclx.lib nmfast.lib tee.lib teedb.lib bcb2kaxserver.lib"/>
+    <PACKAGES value="vcl.bpi rtl.bpi dbrtl.bpi adortl.bpi vcldb.bpi vclx.bpi bdertl.bpi 
+      vcldbx.bpi ibxpress.bpi dsnap.bpi cds.bpi bdecds.bpi qrpt.bpi teeui.bpi 
+      teedb.bpi tee.bpi dss.bpi teeqr.bpi visualclx.bpi visualdbclx.bpi 
+      dsnapcrba.bpi dsnapcon.bpi bcbsmp.bpi vclie.bpi xmlrtl.bpi inet.bpi 
+      inetdbbde.bpi inetdbxpress.bpi nmfast.bpi webdsnap.bpi bcbie.bpi 
+      websnap.bpi soaprtl.bpi dclocx.bpi dbexpress.bpi dbxcds.bpi indy.bpi 
+      bcb2kaxserver.bpi inetdb.bpi"/>
+    <PATHCPP value=".;D:;D:"/>
+    <PATHPAS value=".;"/>
+    <PATHRC value=".;"/>
+    <PATHASM value=".;"/>
+    <DEBUGLIBPATH value="$(BCB)\lib\debug"/>
+    <RELEASELIBPATH value="$(BCB)\lib\release"/>
+    <LINKER value="ilink32"/>
+    <USERDEFINES value="_DEBUG"/>
+    <SYSDEFINES value="NO_STRICT;_RTLDLL"/>
+    <MAINSOURCE value="SmartEnvironment.cpp"/>
+    <INCLUDEPATH value="D:\;&quot;c:\Program Files\Borland\CBuilder6\Projects&quot;;&quot;c:\Program Files \Developer Express Inc\ExpressBars\C++Builder 6\Lib&quot;;&quot;c:\Program Files \Developer Express Inc\ExpressCommon\C++Builder 6\Lib&quot;;&quot;c:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib&quot;;&quot;c:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib&quot;;$(BCB)\include;$(BCB)\include\vcl"/>
+    <LIBPATH value="D:\;&quot;c:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib&quot;;&quot;c:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib&quot;;&quot;c:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib&quot;;&quot;c:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib&quot;;$(BCB)\Projects\Lib;&quot;c:\Program Files\Borland\CBuilder6\Projects&quot;;$(BCB)\lib\obj;$(BCB)\lib;&quot;c:\Program Files\Borland\CBuilder6\Bin&quot;"/>
+    <WARNINGS value="-w-par"/>
+    <OTHERFILES value=""/>
+  </MACROS>
+  <OPTIONS>
+    <IDLCFLAGS value="-ID:\. -I&quot;c:\Program Files\Borland\CBuilder6\Projects&quot; 
+      -I&quot;c:\Program Files \Developer Express Inc\ExpressBars\C++Builder 6\Lib&quot; 
+      -I&quot;c:\Program Files \Developer Express Inc\ExpressCommon\C++Builder 6\Lib&quot; 
+      -I&quot;c:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib&quot; 
+      -I&quot;c:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib&quot; 
+      -I$(BCB)\include -I$(BCB)\include\vcl -src_suffix cpp -D_DEBUG"/>
+    <CFLAG1 value="-Od -H=$(BCB)\lib\vcl60.csm -Hc -Vx -Ve -X- -r- -a8 -b- -k -y -v -vi- -c 
+      -tW -tWM"/>
+    <PFLAGS value="-N2.\Bin -N0.\Bin -$Y+ -$W -$O- -$A8 -v -JPHNE -M"/>
+    <RFLAGS value=""/>
+    <AFLAGS value="/mx /w2 /zi"/>
+    <LFLAGS value="-I.\Bin -D&quot;&quot; -aa -Tpe -GD -x -Gn -v"/>
+    <OTHERFILES value=""/>
+  </OPTIONS>
+  <LINKER>
+    <ALLOBJ value="c0w32.obj Memmgr.Lib sysinit.obj $(OBJFILES)"/>
+    <ALLRES value="$(RESFILES)"/>
+    <ALLLIB value="$(LIBFILES) $(LIBRARIES) import32.lib cp32mti.lib"/>
+    <OTHERFILES value=""/>
+  </LINKER>
+  <FILELIST>
+      <FILE FILENAME="SmartEnvironment.res" FORMNAME="" UNITNAME="SmartEnvironment.res" CONTAINERID="ResTool" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="SmartEnvironment.cpp" FORMNAME="" UNITNAME="SmartEnvironment" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Output.cpp" FORMNAME="FrameOutput" UNITNAME="Output" CONTAINERID="CCompiler" DESIGNCLASS="TFrame" LOCALCOMMAND=""/>
+      <FILE FILENAME="property.cpp" FORMNAME="FrameProperty" UNITNAME="property" CONTAINERID="CCompiler" DESIGNCLASS="TFrame" LOCALCOMMAND=""/>
+      <FILE FILENAME="MainFrame.cpp" FORMNAME="frmMainFrame" UNITNAME="MainFrame" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="UIProject.cpp" FORMNAME="" UNITNAME="UIProject.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="NodeEvent.cpp" FORMNAME="" UNITNAME="NodeEvent" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="LineEvent.cpp" FORMNAME="" UNITNAME="LineEvent.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="projectModel.cpp" FORMNAME="" UNITNAME="projectModel.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="SelectRect.cpp" FORMNAME="" UNITNAME="SelectRect.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="UIProjectXML.cpp" FORMNAME="" UNITNAME="UIProjectXML" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Dblarr.cpp" FORMNAME="" UNITNAME="Dblarr.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Matrix.cpp" FORMNAME="" UNITNAME="Matrix.cpp" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Array.cpp" FORMNAME="" UNITNAME="Array" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ReasonMachine.cpp" FORMNAME="" UNITNAME="ReasonMachine" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="BelongFunction.cpp" FORMNAME="frm_BelongFunction" UNITNAME="BelongFunction" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="RelationShip.cpp" FORMNAME="tf_relationship" UNITNAME="RelationShip" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Find.cpp" FORMNAME="frmFind" UNITNAME="Find" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Simulator.cpp" FORMNAME="" UNITNAME="Simulator" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="ShowResult.cpp" FORMNAME="frmShowResult" UNITNAME="ShowResult" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="About.cpp" FORMNAME="frmAbout" UNITNAME="About" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="D:\ApplicationManager.cpp" FORMNAME="" UNITNAME="ApplicationManager" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="D:\DBEngine.cpp" FORMNAME="" UNITNAME="DBEngine" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="UnitSim.cpp" FORMNAME="FormSim" UNITNAME="UnitSim" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="UnitEvac.cpp" FORMNAME="FormEvac" UNITNAME="UnitEvac" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="UnitSim2.cpp" FORMNAME="FormSim2" UNITNAME="UnitSim2" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Unit.cpp" FORMNAME="FormNS" UNITNAME="Unit" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="Transfer.cpp" FORMNAME="Form1" UNITNAME="Transfer" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+      <FILE FILENAME="CreatPattern.cpp" FORMNAME="Form2" UNITNAME="CreatPattern" CONTAINERID="CCompiler" DESIGNCLASS="" LOCALCOMMAND=""/>
+  </FILELIST>
+  <BUILDTOOLS>
+  </BUILDTOOLS>
+
+  <IDEOPTIONS>
+[Version Info]
+IncludeVerInfo=0
+AutoIncBuild=0
+MajorVer=1
+MinorVer=0
+Release=0
+Build=0
+Debug=0
+PreRelease=0
+Special=0
+Private=0
+DLL=0
+Locale=1033
+CodePage=1252
+
+[Version Info Keys]
+CompanyName=
+FileDescription=
+FileVersion=1.0.0.0
+InternalName=
+LegalCopyright=
+LegalTrademarks=
+OriginalFilename=
+ProductName=
+ProductVersion=1.0.0.0
+Comments=
+
+[Excluded Packages]
+C:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib\dcldxExRwC6.bpl=ExpressInspector Extended Rows
+
+[HistoryLists\hlIncludePath]
+Count=28
+Item0=D:\;c:\Program Files\Borland\CBuilder6\Projects;c:\Program Files \Developer Express Inc\ExpressBars\C++Builder 6\Lib;c:\Program Files \Developer Express Inc\ExpressCommon\C++Builder 6\Lib;c:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;c:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;$(BCB)\include;$(BCB)\include\vcl
+Item1=D:\;c:\Program Files (x86)\Borland\CBuilder6\Projects;c:\Program Files (x86)\Developer Express Inc\ExpressBars\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;$(BCB)\include;$(BCB)\include\vcl
+Item2=D:\;c:\Program Files\Borland\CBuilder6\Projects;c:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;c:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;c:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;c:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;$(BCB)\include;$(BCB)\include\vcl
+Item3=D:\;D:\aaab;c:\Program Files (x86)\Borland\CBuilder6\Projects;c:\Program Files (x86)\Developer Express Inc\ExpressBars\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;$(BCB)\include;$(BCB)\include\vcl
+Item4=D:\;D:\aaab;..\..;c:\Program Files (x86)\Borland\CBuilder6\Projects;c:\Program Files (x86)\Developer Express Inc\ExpressBars\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;$(BCB)\include;$(BCB)\include\vcl
+Item5=D:\;D:\aaab;..\..;d:\Program Files (x86)\Borland\CBuilder6\Projects;d:\Program Files (x86)\Developer Express Inc\ExpressBars\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;$(BCB)\include;$(BCB)\include\vcl
+Item6=D:\aaab;..\..;d:\Program Files (x86)\Borland\CBuilder6\Projects;d:\Program Files (x86)\Developer Express Inc\ExpressBars\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;$(BCB)\include;$(BCB)\include\vcl
+Item7=..\..;d:\Program Files (x86)\Borland\CBuilder6\Projects;d:\Program Files (x86)\Developer Express Inc\ExpressBars\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;$(BCB)\include;$(BCB)\include\vcl
+Item8=..\..;C:\Program Files (x86)\Borland\CBuilder6\Projects;C:\Program Files (x86)\Developer Express Inc\ExpressBars\C++Builder 6\Lib;C:\Program Files (x86)\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;C:\Program Files (x86)\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;C:\Program Files (x86)\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;$(BCB)\include;$(BCB)\include\vcl
+Item9=C:\Program Files (x86)\Borland\CBuilder6\Projects;C:\Program Files (x86)\Developer Express Inc\ExpressBars\C++Builder 6\Lib;C:\Program Files (x86)\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;C:\Program Files (x86)\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;C:\Program Files (x86)\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;$(BCB)\include;$(BCB)\include\vcl
+Item10=F:\Project\p1;D:\Program Files\Borland\CBuilder6\Projects;D:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;$(BCB)\include;$(BCB)\include\vcl
+Item11=D:\Program Files\Borland\CBuilder6\Projects;D:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;$(BCB)\include;$(BCB)\include\vcl
+Item12=D:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;$(BCB)\include;$(BCB)\include\vcl
+Item13=D:\Program Files\Borland\CBuilder6\Bin;D:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;D:\Program Files\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl
+Item14=E:\Program Files\Borland\CBuilder6\Bin;E:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;E:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;E:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;E:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;E:\Program Files\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl
+Item15=D:\Program Files\Borland\CBuilder6\Bin;D:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressFlowChart\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl
+Item16=D:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressFlowChart\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl
+Item17=D:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressFlowChart\C++Builder 6\Lib;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl
+Item18=D:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl;D:\Program Files\Borland\CBuilder6\Include\devExpress;D:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib
+Item19=wclSource;swwSource;D:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;F:\Jimmy\Work\wclSource;F:\Jimmy\Work\swwSource;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl;D:\Program Files\Borland\CBuilder6\Include\devExpress;D:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib
+Item20=D:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;F:\Jimmy\Work\wclSource;F:\Jimmy\Work\swwSource;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl;D:\Program Files\Borland\CBuilder6\Include\devExpress;D:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib
+Item21=D:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;wclSource;swwSource;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl;D:\Program Files\Borland\CBuilder6\Include\devExpress;D:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib
+Item22=D:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;wclSource;swwSource;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl;D:\Program Files\Borland\CBuilder6\Include\devExpress
+Item23=wclSource;swwSource;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl;D:\Program Files\Borland\CBuilder6\Include\devExpress;D:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib
+Item24=wclSource;swwSource;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl;D:\Program Files\Borland\CBuilder6\Include\devExpress
+Item25=wclSource;swwSource;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl
+Item26=d:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;wclSource;swwSource;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl
+Item27=swwSource;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\include;$(BCB)\include\vcl
+
+[HistoryLists\hlLibraryPath]
+Count=18
+Item0=D:\;c:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;c:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;c:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;c:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;$(BCB)\Projects\Lib;c:\Program Files\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib;c:\Program Files\Borland\CBuilder6\Bin
+Item1=D:\;c:\Program Files (x86)\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressBars\C++Builder 6\Lib;$(BCB)\Projects\Lib;c:\Program Files (x86)\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib;c:\Program Files (x86)\Borland\CBuilder6\Bin
+Item2=D:\;D:\aaab;c:\Program Files (x86)\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressBars\C++Builder 6\Lib;$(BCB)\Projects\Lib;c:\Program Files (x86)\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib;c:\Program Files (x86)\Borland\CBuilder6\Bin
+Item3=D:\;D:\aaab;..\..;c:\Program Files (x86)\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;c:\Program Files (x86)\Developer Express Inc\ExpressBars\C++Builder 6\Lib;$(BCB)\Projects\Lib;c:\Program Files (x86)\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib;c:\Program Files (x86)\Borland\CBuilder6\Bin
+Item4=D:\;D:\aaab;..\..;d:\Program Files (x86)\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressBars\C++Builder 6\Lib;$(BCB)\Projects\Lib;d:\Program Files (x86)\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib;d:\Program Files (x86)\Borland\CBuilder6\Bin
+Item5=D:\aaab;..\..;d:\Program Files (x86)\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressBars\C++Builder 6\Lib;$(BCB)\Projects\Lib;d:\Program Files (x86)\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib;d:\Program Files (x86)\Borland\CBuilder6\Bin
+Item6=..\..;d:\Program Files (x86)\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;d:\Program Files (x86)\Developer Express Inc\ExpressBars\C++Builder 6\Lib;$(BCB)\Projects\Lib;d:\Program Files (x86)\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib;d:\Program Files (x86)\Borland\CBuilder6\Bin
+Item7=..\..;C:\Program Files (x86)\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;C:\Program Files (x86)\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;C:\Program Files (x86)\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;C:\Program Files (x86)\Developer Express Inc\ExpressBars\C++Builder 6\Lib;$(BCB)\Projects\Lib;C:\Program Files (x86)\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib;C:\Program Files (x86)\Borland\CBuilder6\Bin
+Item8=C:\Program Files (x86)\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;C:\Program Files (x86)\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;C:\Program Files (x86)\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;C:\Program Files (x86)\Developer Express Inc\ExpressBars\C++Builder 6\Lib;$(BCB)\Projects\Lib;C:\Program Files (x86)\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib;C:\Program Files (x86)\Borland\CBuilder6\Bin
+Item9=F:\Project\p1;d:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;d:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;d:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;d:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;$(BCB)\Projects\Lib;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib;D:\Program Files\Borland\CBuilder6\Bin
+Item10=d:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;d:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;d:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;d:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;$(BCB)\Projects\Lib;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib;D:\Program Files\Borland\CBuilder6\Bin
+Item11=d:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;d:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;d:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;d:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;$(BCB)\Projects\Lib;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib
+Item12=d:\Program Files\Borland\CBuilder6\Bin;d:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;d:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;d:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;d:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;$(BCB)\Projects\Lib;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib
+Item13=E:\Program Files\Borland\CBuilder6\Bin;E:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;E:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;E:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;E:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;$(BCB)\Projects\Lib;E:\Program Files\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib
+Item14=D:\Program Files\Developer Express Inc\ExpressInspector\C++Builder 6\Lib;D:\Program Files\Developer Express Inc\ExpressInplaceEditors\C++Builder 6\Lib;wclSource;swwSource;d:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;d:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;F:\Jimmy\Work\wclSource;$(BCB)\Projects\Lib;F:\Jimmy\Work\swwSource;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib
+Item15=d:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;d:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;F:\Jimmy\Work\wclSource;$(BCB)\Projects\Lib;F:\Jimmy\Work\swwSource;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib
+Item16=d:\Program Files\Developer Express Inc\ExpressCommon\C++Builder 6\Lib;d:\Program Files\Developer Express Inc\ExpressBars\C++Builder 6\Lib;wclSource;$(BCB)\Projects\Lib;swwSource;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib
+Item17=$(BCB)\Projects\Lib;swwSource;d:\Program Files\Borland\CBuilder6\Projects;$(BCB)\lib\obj;$(BCB)\lib
+
+[HistoryLists\hlDebugSourcePath]
+Count=1
+Item0=$(BCB)\source\vcl
+
+[HistoryLists\hlConditionals]
+Count=1
+Item0=_DEBUG
+
+[HistoryLists\hlIntOutputDir]
+Count=2
+Item0=.\Bin
+Item1=E:\RuleReason\Bin
+
+[HistoryLists\hlFinalOutputDir]
+Count=4
+Item0=.\Bin\
+Item1=.\Bin
+Item2=E:\RuleReason\Bin\
+Item3=E:\RuleReason\Bin
+
+[HistoryLists\hIBPIOutputDir]
+Count=2
+Item0=.\Bin
+Item1=E:\RuleReason\Bin
+
+[Debugging]
+DebugSourceDirs=$(BCB)\source\vcl
+
+[Parameters]
+RunParams=
+Launcher=
+UseLauncher=0
+DebugCWD=
+HostApplication=
+RemoteHost=
+RemotePath=
+RemoteLauncher=
+RemoteCWD=
+RemoteDebug=0
+
+[Compiler]
+ShowInfoMsgs=0
+LinkDebugVcl=1
+LinkCGLIB=0
+
+[CORBA]
+AddServerUnit=1
+AddClientUnit=1
+PrecompiledHeaders=1
+
+[Language]
+ActiveLang=
+ProjectLang=
+RootDir=
+  </IDEOPTIONS>
+</PROJECT>

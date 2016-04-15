@@ -1,0 +1,9 @@
+As I have told you, I think it is necessary to develop a smart environment simulator, which can help us test our algorithms. I have finished version 1. Right now it is still very simple and can only run on Windows OS. It has following functions:
+1.	Deploy sensors and path between different sensors
+2.	According to poisson distribution generate users who walk among those sensors
+3.	We can set up: lambda (how the user come into); user walking speed and variance (we assume that different users can walk with different speed); sampling time(sensor always work); Simulating times; Distance parameter (every pixel indicating how many meters)
+How to use it:
+1	Deploy sensors and connect those sensors, make sure that every sensor has least one connection
+2	Set up the parameters for simulation
+3	Simulating
+4	Save the results into txt file (include: the sensors data and the users trajectories history)

@@ -1,0 +1,7 @@
+#include "UIProject.h"
+#include <mmsystem.hpp>
+#include "MainFrame.h"
+#include "Simulator.h"
+#include "property.h"
+#include "NodeEvent.h"
+#include "UIProjectXML.cpp"
